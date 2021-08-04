@@ -1,7 +1,4 @@
-
-
 #x = int(input())
-
 x=49
 sq_init = x
 limite_valor = 10
